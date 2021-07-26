@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19ad53ad-8ee3-4d7a-a1f4-5739430eeea9" name="Default Changelist" comment="done more, made it a lot more smooth and cleaner, especially for the user">
+    <list default="true" id="19ad53ad-8ee3-4d7a-a1f4-5739430eeea9" name="Default Changelist" comment="working model. basically finished. anything from here onwards is optimization/me being bored lol">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627295677276</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="working model. basically finished. anything from here onwards is optimization/me being bored lol">
+      <created>1627297320564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627297320564</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +109,7 @@
     <MESSAGE value="first line of code" />
     <MESSAGE value="done a lot more, nearly finished" />
     <MESSAGE value="done more, made it a lot more smooth and cleaner, especially for the user" />
-    <option name="LAST_COMMIT_MESSAGE" value="done more, made it a lot more smooth and cleaner, especially for the user" />
+    <MESSAGE value="working model. basically finished. anything from here onwards is optimization/me being bored lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="working model. basically finished. anything from here onwards is optimization/me being bored lol" />
   </component>
 </project>
