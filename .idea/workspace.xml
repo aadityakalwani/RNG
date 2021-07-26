@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19ad53ad-8ee3-4d7a-a1f4-5739430eeea9" name="Default Changelist" comment="done a lot more, nearly finished" />
+    <list default="true" id="19ad53ad-8ee3-4d7a-a1f4-5739430eeea9" name="Default Changelist" comment="done more, made it a lot more smooth and cleaner, especially for the user">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627295177208</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="done more, made it a lot more smooth and cleaner, especially for the user">
+      <created>1627295677276</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627295677276</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +101,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first line of code" />
     <MESSAGE value="done a lot more, nearly finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="done a lot more, nearly finished" />
+    <MESSAGE value="done more, made it a lot more smooth and cleaner, especially for the user" />
+    <option name="LAST_COMMIT_MESSAGE" value="done more, made it a lot more smooth and cleaner, especially for the user" />
   </component>
 </project>

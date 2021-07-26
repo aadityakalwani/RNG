@@ -1,10 +1,6 @@
 import random
 
 
-def continue():
-
-    # this is what will happen straight after printing "your number is xyz"
-
 def first_rng():
     while True:
         x = int(input("Enter the first number: "))
@@ -28,7 +24,7 @@ def first_rng():
                 continue
 
             elif same_numbers == "n":
-                new_rng()
+                continue
 
 
 def new_rng():
