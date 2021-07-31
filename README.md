@@ -1,2 +1,4 @@
 # RNG
-Basic Simple Random Number Generator
+Random Number Generator
+does some cool stuff and im kinda proud fo it
+nice
